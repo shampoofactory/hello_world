@@ -11,3 +11,9 @@ Cargo.lock
 
 # GitHub
 /.github/
+
+# Visual Studio Code
+/.vscode/
+
+# .gitignore
+.gitignore
